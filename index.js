@@ -8,7 +8,7 @@ const output = './output';
 
 // Optimisation settings
 const quality = 90;
-const width = 90;
+const width = 500;
 
 // Read contents of input directory
 fs.readdir(input, (_, files) => {
